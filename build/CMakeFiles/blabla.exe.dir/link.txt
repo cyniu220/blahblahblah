@@ -1,0 +1,1 @@
+/usr/lib/hardening-wrapper/bin/c++    -rdynamic CMakeFiles/blabla.exe.dir/blabla2.cpp.o  -o blabla.exe src/libbla-lib.a 
