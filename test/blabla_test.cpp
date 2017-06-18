@@ -2,6 +2,6 @@
 #include <blabla.h>
 
 int main() {
-   BlaBla b(1);
-   return 0;
+  BlaBla b(1);
+  return 0;
 }
