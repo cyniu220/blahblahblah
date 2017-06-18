@@ -3,4 +3,5 @@
 
 int main() {
     BlaBla b(1);
+    Bla;
 }
