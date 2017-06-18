@@ -2,6 +2,8 @@
 #include "blabla.h"
 #include <stdlib.h>
 int main() {
-    free(0);
-    BlaBla b(1);
+    const int MAGIC_NUMBER=1;
+    BlaBla b(MAGIC_NUMBER); // what does it do? 
+
+    return 0;
 }
