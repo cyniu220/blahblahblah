@@ -1,2 +1,5 @@
 *.cpp
 *.*~
+build/
+.idea/
+cmake-build-debug/
