@@ -6,7 +6,7 @@ public:
     /// construct blah-blah
     BlaBla(int i) : _i(i) {
       for(int k = 0; k<i; ++k) {
-        // do nothing
+          std::cout << "blah" << std::endl
       }
     }
     /// compute some nonsense
