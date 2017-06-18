@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbla-lib.a  CMakeFiles/bla-lib.dir/blabla.cpp.o
+/usr/bin/ranlib libbla-lib.a
